@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "desafio-csharp-1/1.0.0": {
+        "runtime": {
+          "desafio-csharp-1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafio-csharp-1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/obj/Debug/net9.0/desafio-csharp-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/obj/Debug/net9.0/desafio-csharp-1.AssemblyInfoInputs.cache
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/obj/Debug/net9.0/desafio-csharp-1.AssemblyInfo.cs
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/obj/Debug/net9.0/desafio-csharp-1.csproj.CoreCompileInputs.cache
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/obj/Debug/net9.0/desafio-csharp-1.sourcelink.json
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/bin/Debug/net9.0/desafio-csharp-1
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/bin/Debug/net9.0/desafio-csharp-1.deps.json
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/bin/Debug/net9.0/desafio-csharp-1.runtimeconfig.json
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/bin/Debug/net9.0/desafio-csharp-1.dll
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/bin/Debug/net9.0/desafio-csharp-1.pdb
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/obj/Debug/net9.0/desafio-csharp-1.dll
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/obj/Debug/net9.0/refint/desafio-csharp-1.dll
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/obj/Debug/net9.0/desafio-csharp-1.pdb
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/obj/Debug/net9.0/desafio-csharp-1.genruntimeconfig.cache
+/home/gus_testes/Desafios-de-Código_DIO/Scripts/desafio-csharp-1/obj/Debug/net9.0/ref/desafio-csharp-1.dll
